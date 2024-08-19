@@ -14,16 +14,16 @@ To run the Weather App locally on your machine, follow these steps:
 ## Clone the repository:
 
 
-- git clone 
+- git clone https://github.com/teslaa143/Weather-App.git
 cd weather-app
 
 ## Install the dependencies:
 
 npm install
 ## Start the development server:
-
 npm start
-Open the app:
+
+## Open the app:
 Open your browser and go to http://localhost:5173/ to view the app.
 
 ## Usage
@@ -34,4 +34,4 @@ Open your browser and go to http://localhost:5173/ to view the app.
 ## API
 This app uses the OpenWeatherMap API to fetch weather data. You will need an API key to use this service. Replace the API_KEY in the code with your own key.
 
-const API_KEY = "your_api_key_here";
+const API_KEY = "2803fb1a3a057bcb2aad4872d8d3a057";
