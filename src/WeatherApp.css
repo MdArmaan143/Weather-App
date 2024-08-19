@@ -1,0 +1,21 @@
+.WeatherApp{
+    text-align: center;
+        background: linear-gradient(to right, #83a4d4, #b6fbff);
+        padding: 20px;
+        border-radius: 15px;
+        max-width: 500px;
+        margin: 50px auto;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        color: #333;
+        font-family: 'Arial', sans-serif;
+        text-align: center;
+    }
+    
+    .WeatherApp h2 {
+        font-size: 2em;
+        margin-bottom: 20px;
+        color: #fff;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    

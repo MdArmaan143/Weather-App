@@ -40,3 +40,38 @@
 .read-the-docs {
   color: #888;
 }
+
+/* General App Background */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+/* App Wrapper */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(to right, #ffffff, #e0eafc);
+  padding: 20px;
+}
+
+/* General Styling for Entire App */
+.App * {
+  box-sizing: border-box;
+}
+
+/* Additional Styling */
+.App h2, .App h3, .App h1 {
+  color: #444;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.App button {
+  cursor: pointer;
+}
+
