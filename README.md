@@ -11,6 +11,9 @@ Currently, two official plugins are available:
 # Weather App
 This is a simple React-based Weather App that allows users to search for and view current weather information for any city in the world. The app fetches weather data from the OpenWeatherMap API and displays it in a user-friendly interface.
 
+## Project link
+[https://a-weather-app9.netlify.app/](https://a-weather-app9.netlify.app/)
+
 ## Features
 - City Search: Users can input the name of any city to get real-time weather information.
 - Weather Information: The app displays key weather details such as temperature, humidity, weather conditions, and how the weather feels.
