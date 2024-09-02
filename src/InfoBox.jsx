@@ -36,7 +36,7 @@ export default function InfoBox({info}){
         </Typography>
         <Typography variant="body2" color="text.secondary">
          <div>Temperature = {info.temp}&deg;C</div>
-         <div>Humidity = {info.humidity}&percnt ;%</div>
+         <div>Humidity = {info.humidity}</div>
          <div>Min Temp = {info.temMin}&deg;C</div>
          <div>Max Temp = {info.temMax}&deg;C</div>
          <div>The weather feels like {info.feelsLike}&deg;C</div>
